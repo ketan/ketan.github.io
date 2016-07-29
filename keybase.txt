@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/ketan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ketanpkr.in
+  * I am ketan (https://keybase.io/ketan) on keybase.
+  * I have a public key with fingerprint FA2D 5FCC E746 AADC 2BDB  5F24 90BB CBEB FC8D EBFC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014bc09c98aea702a3bfcffa6c9b033312cc993162e4eaa36d013cd8d4df76776c0a",
+            "fingerprint": "fa2d5fcce746aadc2bdb5f2490bbcbebfc8debfc",
+            "host": "keybase.io",
+            "key_id": "90bbcbebfc8debfc",
+            "kid": "01014bc09c98aea702a3bfcffa6c9b033312cc993162e4eaa36d013cd8d4df76776c0a",
+            "uid": "177c16f1f4be7f76a016782910e14400",
+            "username": "ketan"
+        },
+        "service": {
+            "hostname": "ketanpkr.in",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469798222,
+    "expire_in": 157680000,
+    "prev": "56ce6ca288e428a73ce05031daa35b8c8e75d1f93c05d5c5814a8d54333cbfe2",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMM9AnicrVJtTFtVGC4gLKAoiALbHCZ3gjoqud8fVTJJWGAWR5x8ON3W3HvuueXa
+0Zb2lhZKxRANVsPcJmA2mDBFoqKbuGUIxG2ArsyxxE0GbhG24VwQ0rHMBjao6L1E
+E3/40/PjnJz3fZ7nfd8n77fxUbq4iD39Z2fDDbPhiLMDjS5daUvpFi8i2MQqxOBF
+LHDlgbtE6FRMFllEDAiKoRgpAJQDHMtDnkFxnhAkIEk8DTgBJQgCwwHgOAKjcUhC
+nidoEcUIILIiKUoMzTA0QHlEj0iy1QwddodsVVRZicdFSgIAMiTN8yLABVGgJJzk
+UEEAAlQrsKJ2q8Qym1NjqM0JvBNmyTY1pn5MK+39B/5/7tu1IocxDMBoCZNIATJq
+mkcxmmFxDkMhRpIoqgGd0GHly+FKrwpvRXx6RA1VygBqrmpj/DtttziyZKvKszts
+ig3YdqmJMkWxOw0aUamya0g3FEx/a5gE2SqqHqqMSuhwyjYrYsBUJFBkTRQjaY7h
+WBzH9Qj02GUHNMkagmJoFlWPVgdWqpIUDSANeJxlIYmzPEMAiFIogYmqBZTAAhYy
+lIhJHAFQSqQAxWIkz4oUqToGBAniiDZVhdWGGLRSCm9WNZ2y2corLgdEfIMD2+/R
+RcTpYqIjteXSxcUm/LNy5nCCrgPEImn7Pr0x8/jy9iefGLI6E9OjL33gb7reVa5L
+1W9rbfBPlFpacvHJwo3DMZGlta/g86dS5s/PHb1LhL949Ed93YWSK3ujHoq8fcw0
+k8Mmp9cdKoQfu0rtFX2PXFr+JCtvx2X/2MYhcH/bmi5llaczPUStGt36e8n+tvJD
+GxydO0+NVE3MuQ+4Utrzgpl90abXwgdDNfbI7KSjnfm9p331N4NddcUL559Zd19G
+RuKDffHNV97NfMMb51n6oaCnJmIs8fid6Htfnme++yr19pbBPy3XXEXjfvfrDxhH
+Xq02X9/PGkeMod+O66bt2ed2f76mNnx50Xhu6mny8FXws3Ky7OoL5uXW1G3NnuYC
+5o5nJDQQCMwUhbo/CgyjSo4rJ3piUmhdjjmdUL12qf5g4q8P+xIuvvPlU98s9OH1
+ezdPrc+urR42uc/seXOd96VuSw17w982d8I24AhfONkmf5a82N5fEvwlsrGMyzWa
+PEVjq4OrLY2jXADL0PcPTb8YePaIvL7Vu3DRFdu7Kfa58Ynpn74vaEkKrW2+lp5W
+rBA5kzd3LE5Z8t/e0Pr+gfgSt3y4w1f4fHn+ZlNuoDdvIqJ+X/F4Su3OmMZ4rmHm
+zFZTU9Lo5Kbut3IGx2orbnUjvs6eoDPtxF1XsKe4p/+xI7dgVMeHwtJu72wJ5T7W
+1P7H18mZ/vcMjr8AsV/Pkw==
+=vwlI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ketan
+
+==================================================================
